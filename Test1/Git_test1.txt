@@ -1,1 +1,2 @@
-Sampl e git test file
+Sample git test file
+Commit done on master and new branch created
