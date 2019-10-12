@@ -4,9 +4,3 @@ Commit done on master and new branch created
 
 Writing to se behaviour of modified files
 sdfs
-df
-sdf
-s
-df
-sd
-fsd
